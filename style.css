@@ -245,8 +245,14 @@ span {
   font-size: 16px;
 }
 
+#timeframe img {
+  height: auto;
+  width: 525px;
+}
 
-
+.time_frame {
+  text-align: center;
+}
 
 .skills {
   width: 100%;
